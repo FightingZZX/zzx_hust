@@ -1,2 +1,2 @@
 qqq
-ddddq
+ddddq GPL
