@@ -1,5 +1,4 @@
-qqq
-ddddq GPL
+Learn git
 Git has a mutable index called stage
 Git tracks change
 Git tracks changes.
